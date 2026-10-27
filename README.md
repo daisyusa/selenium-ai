@@ -71,3 +71,8 @@ npx tsx tests/selenium.spec.ts
 refer to https://github.com/angiejones/mcp-selenium for another MCP Selenium server.
 
 The information comes from Selenium official website https://www.selenium.dev/ecosystem/
+
+Read this Post for how to use AI agent with Selenium effectively.
+https://www.selenium.dev/blog/2026/using-ai-agents-with-selenium/
+
+Follow this documentation https://www.selenium.dev/documentation/ai_agents/ to use AI agent for Selenium.
