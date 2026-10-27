@@ -68,4 +68,6 @@ npx tsx tests/selenium.spec.ts
 
 ## Other Selenium AI tool
 
-refer to https://github.com/angiejones/mcp-selenium for another MCP Selenium server
+refer to https://github.com/angiejones/mcp-selenium for another MCP Selenium server.
+
+The information comes from Selenium official website https://www.selenium.dev/ecosystem/
